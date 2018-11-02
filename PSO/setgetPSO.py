@@ -1,5 +1,5 @@
 import  random
-import numpy as np
+import numpy as np 
 
 
 def fit_fun(X):  # 适应函数
